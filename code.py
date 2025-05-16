@@ -98,7 +98,10 @@ class Game:
         num_games = int(input("How many games do you want to play? "))
 
         for game_num in range(1, num_games + 1):
-            print(f"\nStarting Game {game_num}")
+            print()
+            print("*" * 30)
+            print(f"Starting Game {game_num} of {num_games}")
+            print("*" * 30)
 
             deck = Deck()
             deck.shuffle()
@@ -137,7 +140,7 @@ class Game:
             # Final result after both hands are played
             self.check_winner(player_hand, dealer_hand, game_over=True)
 
-        print("Thanks for playing!")
+        print("\nThanks for playing!")
 
     def check_winner(self, player_hand, dealer_hand, game_over=False):
         # Check for win/loss conditions
