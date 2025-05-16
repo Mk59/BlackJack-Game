@@ -65,68 +65,83 @@ How many games do you want to play? 3
 ******************************
 Game 1 of 3
 ******************************
-Your hand: 
-5 of hearts
-Q of diamonds
-Value:  15
+Your hand:
+7 of diamonds
+Q of clubs
+Value: 17
 
-Dealer's hand: 
+Dealer's hand:
 hidden
-7 of clubs
+4 of clubs
 
 Please choose 'Hit' or 'Stand': s
 
-Dealer's hand: 
-5 of diamonds
-7 of clubs
-K of diamonds
+Dealer's hand:
+A of hearts
+4 of clubs
+2 of spades
 
-Dealer busted, You win!
+Final Results
+Your hand: 17
+Dealer's hand: 17
+
+Tie! 
 
 ******************************
 Game 2 of 3
 ******************************
-Your hand: 
+Your hand:
+9 of clubs
 9 of hearts
-J of clubs
-Value:  19
+Value: 18
 
-Dealer's hand: 
+Dealer's hand:
 hidden
-4 of hearts
+10 of diamonds
 
-Please choose 'Hit' or 'Stand': h
+Please choose 'Hit' or 'Stand': s
 
-Your hand: 
-9 of hearts
-J of clubs
-3 of spades
-Value:  22
+Dealer's hand:
+8 of hearts
+10 of diamonds
 
-You busted, Dealer wins!
+Final Results
+Your hand: 18
+Dealer's hand: 18
+
+Tie! 
 
 ******************************
 Game 3 of 3
 ******************************
-Your hand: 
-9 of diamonds
-5 of hearts
-Value:  14
+Your hand:
+A of hearts
+4 of diamonds
+Value: 15
 
-Dealer's hand: 
+Dealer's hand:
 hidden
-K of spades
+8 of hearts
 
 Please choose 'Hit' or 'Stand': h
 
-Your hand: 
-9 of diamonds
-5 of hearts
+Your hand:
+A of hearts
+4 of diamonds
 7 of spades
-Value:  21
+Value: 12
 
-You have Blackjack. You win!
-Thanks for playing!!!
+Please choose 'Hit' or 'Stand': s
+
+Dealer's hand:
+3 of hearts
+8 of hearts
+J of spades
+
+Dealer has blackjack. Dealer wins! 
+
+Thanks for playing!
+
 ```
 
 ---
